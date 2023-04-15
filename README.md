@@ -12,3 +12,6 @@ Al you have to do is to is:
 2- If you are using Windows 10 , and you computer has WIFI dongle or you are using a laptop, just press (Creat WiFi Hotspot) button. It will generate a powershell script and then run it by means a batch file.
 
 By using this program you can lower the risk of WIFI hacking by means of using a complicated standard password, instead your phone number :)
+I have used QRCode generator from DelphiZXingQRCode.
+https://github.com/foxitsoftware/DelphiZXingQRCode
+
